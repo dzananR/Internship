@@ -1,0 +1,7 @@
+[caps]
+platformName = "Android"
+platformVersion = "7.1.1"
+deviceName = "Nexus S"
+app = "./Daily.apk"
+appWaitActivity = "com.haufe_umantis.daily.activities.StartActivity"
+avd='test'

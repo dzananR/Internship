@@ -1,0 +1,8 @@
+source 'https://www.rubygems.org'
+ruby '2.3.1'
+
+
+gem 'appium_lib'
+gem 'rspec'
+gem 'appium_console'
+
